@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A Aspiring & passionate SDE from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishchandel23&label=Profile%20views&color=0e75b6&style=flat" alt="ashishchandel23" /> </p>
+<img alt="Programmer" width="400" align="right" src="https://github.com/AshishChandel23/AshishChandel23/blob/main/Programmer.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-<img alt="Programmer" width="400" align="right" src="https://github.com/AshishChandel23/AshishChandel23/blob/main/Programmer.gif">
 
 - 📫 How to reach me **aashishchandel223@gmail.com**
 
