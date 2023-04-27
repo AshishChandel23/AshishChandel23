@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - ⚡ Learning Fact **Improving With Time ⌛**
 
+- 💥 Boost YourSelf **Keep holding the precious time ⌛ as much as you can & shelter your own limits and push yourself Higher & Higher 🧡**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish kumar chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar chandel" height="30" width="40" /></a>
