@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/AshishChandel23/AshishChandel23/blob/main/Banner.gif)
 <h1 align="center">Hi there...👋, I'm Ashish Chandel</h1>
 <h3 align="center">A Aspiring & passionate SDE from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishchandel23&label=Profile%20views&color=0e75b6&style=flat" alt="ashishchandel23" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-<img alt="Programmer" width="400" align="right" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
+<img alt="Programmer" width="400" align="right" src="https://github.com/AshishChandel23/AshishChandel23/blob/main/Programmer.gif">
 
 - 📫 How to reach me **aashishchandel223@gmail.com**
 
