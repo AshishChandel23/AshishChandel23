@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <div class="cloumn">
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchandel23&" alt="ashishchandel23"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishchandel23&show_icons=true&locale=en" alt="ashishchandel23" />
 </p>
 </div>
