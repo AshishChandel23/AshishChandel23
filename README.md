@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡ Learning Fact **Improving With Time ⌛**
 
-- 💥 Boost YourSelf **Keep holding the precious time ⌛ as much as you can & shelter your own limits and push yourself Higher & Higher 🧡**
+- 💥 Boost YourSelf :- **Keep holding the precious time ⌛ as much as you can & shelter your own limits and push yourself Higher & Higher 🧡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
