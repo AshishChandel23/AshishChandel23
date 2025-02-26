@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **aashishchandel223@gmail.com**
+- 📫 How to reach me **ashishchandel223@gmail.com**
 
 - ⚡ Learning Fact **Improving With Time ⌛**
 
